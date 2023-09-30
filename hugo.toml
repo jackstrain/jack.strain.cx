@@ -1,0 +1,10 @@
+baseURL = 'https://jack.strain.cx/'
+languageCode = 'en-gb'
+title = 'Jack Strain'
+theme = 'simple-style'
+
+[params]
+subtitle = 'A collection of things I found useful.'
+
+[taxonomies]
+tag = 'tags'

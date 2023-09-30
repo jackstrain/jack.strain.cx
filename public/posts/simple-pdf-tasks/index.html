@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <base href="https://jack.strain.cx/">
+  <title>Simple PDF Tasks on Ubuntu/Linux - Jack Strain</title>
+  <link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+<body>
+  <header>
+<div>
+    <h1><a href="https://jack.strain.cx/">Jack Strain</a></h1><h2 class="subtitle">A collection of things I found useful.</h2>
+  </div>
+  <nav>
+  </nav>
+</header>
+<main>
+    <article>
+  <div class="title">
+    <h1>Simple PDF Tasks on Ubuntu/Linux</h1>
+    </div>
+  <div class="meta">2023-09-28 23:35</div>
+  <div class="meta">
+    
+    
+    
+    
+    
+    
+    
+    <div class="tag"><a href="https://jack.strain.cx/tags/linux/">#linux</a></div>
+    
+    
+    
+    
+    
+    
+    <div class="tag"><a href="https://jack.strain.cx/tags/pdf/">#pdf</a></div>
+    
+    
+    
+    
+    
+    
+    <div class="tag"><a href="https://jack.strain.cx/tags/ubuntu/">#ubuntu</a></div>
+    </div>
+  <div class="artical-body">
+  
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#converting-pdfs-to-images">Converting PDFs to Images</a></li>
+    <li><a href="#compressing-pdfs">Compressing PDFs</a></li>
+  </ul>
+</nav>
+    <div class="content-with-toc">
+      <h2 id="converting-pdfs-to-images">Converting PDFs to Images</h2>
+<p>Required is the <code>poppler-utils</code> package, which should be installed by default on Ubuntu.<br>
+For a whole file:<br>
+<code>pdftoppm input.pdf outputname -png</code><br>
+For one or more pages of a file:<br>
+<code>pdftoppm input.pdf outputname -png -f {page} -singlefile</code><br>
+where <code>{page}</code> is the page number, i.e. <code>-f 1</code> would be the first page.<br>
+A range can be specified like so <code>-f 1 -l 5</code> where <code>-l</code> specifies the last page.</p>
+<h2 id="compressing-pdfs">Compressing PDFs</h2>
+<p>Compression can be achieved with <code>ps2pdf</code> like so:<br>
+<code>ps2pdf input.pdf output.pdf</code></p>
+</div>
+  
+  </div>
+</article>
+
+  </main><footer>
+  <p>&copy; Jack Strain</a></p></footer>
+
+</body>
+</html>
