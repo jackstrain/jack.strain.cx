@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <base href="https://jack.strain.cx/">
+  <title>Zotero Libreoffice Integration No Icons - Jack Strain</title>
+  <link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+<body>
+  <header>
+<div>
+    <h1><a href="https://jack.strain.cx/">Jack Strain</a></h1><h2 class="subtitle">A collection of things I found useful.</h2>
+  </div>
+  <nav><a href="/">Home</a><a href="https://github.com/jackstrain">GitHub</a><a href="https://linkedin.com/in/jackstrain">LinkedIn</a>
+  </nav>
+</header>
+<main>
+    <article>
+  <div class="title">
+    <h1>Zotero Libreoffice Integration No Icons</h1>
+    </div>
+  <div class="meta">2023-10-02 13:23</div>
+  <div class="meta">
+    
+    
+    
+    
+    
+    
+    
+    <div class="tag"><a href="https://jack.strain.cx/tags/linux/">#linux</a></div>
+    
+    
+    
+    
+    
+    
+    <div class="tag"><a href="https://jack.strain.cx/tags/ubuntu/">#ubuntu</a></div>
+    
+    
+    
+    
+    
+    
+    <div class="tag"><a href="https://jack.strain.cx/tags/libreoffice/">#libreoffice</a></div>
+    
+    
+    
+    
+    
+    
+    <div class="tag"><a href="https://jack.strain.cx/tags/zotero/">#zotero</a></div>
+    </div>
+  <div class="artical-body">
+  
+    <div class="content">
+      <p>Having spent half an hour trying to get the Zotero integration in LibreOffice to work (getting LibreOffice to detect Java needed the <code>libreoffice-java-common</code> package by the way), the toolbar appeared and worked, but without icons.</p>
+<p>Getting the icons to work required the following:<br>
+First, close LibreOffice.<br>
+Second, run the following commands:</p>
+<pre tabindex="0"><code>rm -r ~/.config/libreoffice/4/user/temp/
+rm -r ~/.config/libreoffice/4/user/extensions/
+</code></pre><p>Now after starting LibreOffice, you should see the icons instead of just words for each button on the Zotero toolbar.</p>
+</div>
+  
+  </div>
+</article>
+
+  </main><footer>
+  <p>&copy; Jack Strain</a></p></footer>
+
+</body>
+</html>

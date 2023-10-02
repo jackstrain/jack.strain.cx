@@ -6,13 +6,40 @@
     <description>Recent content in Tags on Jack Strain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 28 Sep 2023 23:35:31 +0100</lastBuildDate><atom:link href="https://jack.strain.cx/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Oct 2023 13:23:02 +0100</lastBuildDate><atom:link href="https://jack.strain.cx/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>libreoffice</title>
+      <link>https://jack.strain.cx/tags/libreoffice/</link>
+      <pubDate>Mon, 02 Oct 2023 13:23:02 +0100</pubDate>
+      
+      <guid>https://jack.strain.cx/tags/libreoffice/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>linux</title>
       <link>https://jack.strain.cx/tags/linux/</link>
-      <pubDate>Thu, 28 Sep 2023 23:35:31 +0100</pubDate>
+      <pubDate>Mon, 02 Oct 2023 13:23:02 +0100</pubDate>
       
       <guid>https://jack.strain.cx/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://jack.strain.cx/tags/ubuntu/</link>
+      <pubDate>Mon, 02 Oct 2023 13:23:02 +0100</pubDate>
+      
+      <guid>https://jack.strain.cx/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zotero</title>
+      <link>https://jack.strain.cx/tags/zotero/</link>
+      <pubDate>Mon, 02 Oct 2023 13:23:02 +0100</pubDate>
+      
+      <guid>https://jack.strain.cx/tags/zotero/</guid>
       <description></description>
     </item>
     
@@ -22,15 +49,6 @@
       <pubDate>Thu, 28 Sep 2023 23:35:31 +0100</pubDate>
       
       <guid>https://jack.strain.cx/tags/pdf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ubuntu</title>
-      <link>https://jack.strain.cx/tags/ubuntu/</link>
-      <pubDate>Thu, 28 Sep 2023 23:35:31 +0100</pubDate>
-      
-      <guid>https://jack.strain.cx/tags/ubuntu/</guid>
       <description></description>
     </item>
     

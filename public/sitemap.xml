@@ -3,24 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jack.strain.cx/</loc>
-    <lastmod>2023-09-28T23:35:31+01:00</lastmod>
+    <lastmod>2023-10-02T13:23:02+01:00</lastmod>
+  </url><url>
+    <loc>https://jack.strain.cx/tags/libreoffice/</loc>
+    <lastmod>2023-10-02T13:23:02+01:00</lastmod>
   </url><url>
     <loc>https://jack.strain.cx/tags/linux/</loc>
-    <lastmod>2023-09-28T23:35:31+01:00</lastmod>
+    <lastmod>2023-10-02T13:23:02+01:00</lastmod>
+  </url><url>
+    <loc>https://jack.strain.cx/posts/</loc>
+    <lastmod>2023-10-02T13:23:02+01:00</lastmod>
+  </url><url>
+    <loc>https://jack.strain.cx/tags/</loc>
+    <lastmod>2023-10-02T13:23:02+01:00</lastmod>
+  </url><url>
+    <loc>https://jack.strain.cx/tags/ubuntu/</loc>
+    <lastmod>2023-10-02T13:23:02+01:00</lastmod>
+  </url><url>
+    <loc>https://jack.strain.cx/tags/zotero/</loc>
+    <lastmod>2023-10-02T13:23:02+01:00</lastmod>
+  </url><url>
+    <loc>https://jack.strain.cx/posts/zotero-libreoffice-no-icons/</loc>
+    <lastmod>2023-10-02T13:23:02+01:00</lastmod>
   </url><url>
     <loc>https://jack.strain.cx/tags/pdf/</loc>
     <lastmod>2023-09-28T23:35:31+01:00</lastmod>
   </url><url>
-    <loc>https://jack.strain.cx/posts/</loc>
-    <lastmod>2023-09-28T23:35:31+01:00</lastmod>
-  </url><url>
     <loc>https://jack.strain.cx/posts/simple-pdf-tasks/</loc>
-    <lastmod>2023-09-28T23:35:31+01:00</lastmod>
-  </url><url>
-    <loc>https://jack.strain.cx/tags/</loc>
-    <lastmod>2023-09-28T23:35:31+01:00</lastmod>
-  </url><url>
-    <loc>https://jack.strain.cx/tags/ubuntu/</loc>
     <lastmod>2023-09-28T23:35:31+01:00</lastmod>
   </url>
 </urlset>

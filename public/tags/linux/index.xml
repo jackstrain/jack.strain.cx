@@ -6,7 +6,20 @@
     <description>Recent content in linux on Jack Strain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 28 Sep 2023 23:35:31 +0100</lastBuildDate><atom:link href="https://jack.strain.cx/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Oct 2023 13:23:02 +0100</lastBuildDate><atom:link href="https://jack.strain.cx/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zotero Libreoffice Integration No Icons</title>
+      <link>https://jack.strain.cx/posts/zotero-libreoffice-no-icons/</link>
+      <pubDate>Mon, 02 Oct 2023 13:23:02 +0100</pubDate>
+      
+      <guid>https://jack.strain.cx/posts/zotero-libreoffice-no-icons/</guid>
+      <description>Having spent half an hour trying to get the Zotero integration in LibreOffice to work (getting LibreOffice to detect Java needed the libreoffice-java-common package by the way), the toolbar appeared and worked, but without icons.
+Getting the icons to work required the following:
+First, close LibreOffice.
+Second, run the following commands:
+rm -r ~/.config/libreoffice/4/user/temp/ rm -r ~/.config/libreoffice/4/user/extensions/ Now after starting LibreOffice, you should see the icons instead of just words for each button on the Zotero toolbar.</description>
+    </item>
+    
     <item>
       <title>Simple PDF Tasks on Ubuntu/Linux</title>
       <link>https://jack.strain.cx/posts/simple-pdf-tasks/</link>
